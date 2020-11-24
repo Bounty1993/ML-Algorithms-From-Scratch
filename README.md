@@ -18,6 +18,7 @@ Current models:
 3. Naive Bayes Classifier
 4. AdaBoosting
 5. Decision Tree
+6. Random Forest
 
 *Note: If you want to use machine learning algorithms for 
 prediction and analysis big data you should use sklearn or other 
